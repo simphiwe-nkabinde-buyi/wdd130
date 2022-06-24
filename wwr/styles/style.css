@@ -262,9 +262,6 @@ footer h3 a:hover {
     .river-wrapper p {
         font-size: 1.1rem;
     }
-    .river-img-wrapper {
-        /* justify-content: space-around; */
-    }
     .river-img-wrapper img {
         height: 80px;
         margin: 20px 5px 10px 0;
